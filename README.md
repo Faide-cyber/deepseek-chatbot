@@ -9,7 +9,6 @@
 
 <img src="https://github.com/Faide-cyber/deepseek-chatbot/blob/main/assets/demo.png" width="600px">
 
-
 ### 2. System architecture and file structure
 
 The project mainly includes the following parts:
