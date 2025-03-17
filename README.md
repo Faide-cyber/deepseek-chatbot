@@ -36,7 +36,7 @@ Description of each document:
 
 - **WordPress** : Make sure you are running the latest stable version of WordPress, which is currently 6.7.2.
 - **PHP** : At least PHP 7.2 or later is supported. The latest version is recommended for better performance and security.
-- **DeepSeek API** : Apply for the DeepSeek API Key and configure the knowledge base. For details, see  [DeepSeek API Document](https://api-docs.deepseek.com/zh-cn/api/deepseek-api/).
+- **DeepSeek API** : Apply for the DeepSeek API Key and configure the knowledge base. For details, see  [DeepSeek API Document](https://api-docs.deepseek.com/api/deepseek-api/).
 
 ### 4. Installation and deployment
 
@@ -113,7 +113,7 @@ The author reserves the right to interpret this statement.
 - **Latest source code and documentation**
    Visit the GitHub repository for the latest source code and documentation updates: https://github.com/Faide-cyber/
 - **DeepSeek API related documentation**
-   See [DeepSeek API Documentation](https://api-docs.deepseek.com/zh-cn/api/deepseek-api/)
+   See [DeepSeek API Documentation](https://api-docs.deepseek.com/api/deepseek-api/)
 
 ### 10. Contact information
 
