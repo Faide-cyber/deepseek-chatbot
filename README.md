@@ -5,6 +5,8 @@
 
 **DeepSeek Chatbot** 是一个基于 DeepSeek V3/R1 聊天模型构建的 WordPress 插件。项目主要面向高校辅导员，提供智能问答、对话历史管理、跨域数据交互以及可定制的前后端配置。插件整体设计注重模块化和安全性，便于后续功能扩展与维护。详见 [示例页面](https://faide.top/model/index.html)。
 
+<img src="https://github.com/Faide-cyber/deepseek-chatbot/blob/main/assets/demo.png" width="600px">
+
 ### 2. 系统架构与文件结构
 
 项目主要包含以下几个部分：
